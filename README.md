@@ -23,17 +23,26 @@
 </div>
 
 <div align="center">
-  <a href="https://api.github.com/repos/i-am-xjizhi/MPScan/releases">
-    <img src="https://img.shields.io/github/downloads/i-am-xjizhi/MPScan/total?labelColor=black&color=red&label=Downloads" alt="Downloads">
-  </a>
-  <img src="https://img.shields.io/badge/Version-2.0-blue?labelColor=black" alt="Version: 2.0">
-  <a href="https://github.com/i-am-xjizhi/MPScan/issues">
-    <img src="https://img.shields.io/github/issues/i-am-xjizhi/MPScan?labelColor=black&color=green" alt="GitHub Issues">
-  </a>
-  <img src="https://img.shields.io/badge/OS-Windows_10/11-0078D6?labelColor=black&color=blue" alt="OS: Windows 10/11">
-  <a href="https://github.com/i-am-xjizhi/MPScan/tree/main?tab=MIT-1-ov-file">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg?labelColor=black" alt="License: MIT">
-  </a>
+
+[![Version][version-shield]][version-url]
+[![OS][os-shield]][os-url]
+[![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license-url]
+[![Downloads Total][downloads-total-shield]][downloads-url]
+[![Downloads Latest][downloads-latest-shield]][downloads-url]
+
+[version-shield]: https://img.shields.io/badge/Version-3.0-blue?labelColor=black
+[version-url]: #
+[os-shield]: https://img.shields.io/badge/OS-Windows_10/11-0078D6?labelColor=black&color=blue
+[os-url]: #
+[issues-shield]: https://img.shields.io/github/issues/i-am-xjizhi/MPScan?labelColor=black&color=green&label=Issues
+[issues-url]: https://github.com/i-am-xjizhi/MPScan/issues
+[license-shield]: https://img.shields.io/badge/License-MIT-green.svg?labelColor=black&label=License
+[license-url]: https://github.com/i-am-xjizhi/MPScan/tree/main?tab=MIT-1-ov-file
+[downloads-total-shield]: https://img.shields.io/github/downloads/i-am-xjizhi/MPScan/total?labelColor=black&color=red&label=Downloads
+[downloads-latest-shield]: https://img.shields.io/github/downloads/i-am-xjizhi/MPScan/latest/total?labelColor=black&color=red&label=Downloads%40Latest
+[downloads-url]: https://api.github.com/repos/i-am-xjizhi/MPScan/releases
+
 </div>
 
 
